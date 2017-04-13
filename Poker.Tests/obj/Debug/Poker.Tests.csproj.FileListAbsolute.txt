@@ -1,0 +1,27 @@
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Poker.Tests.dll
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Poker.Tests.pdb
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Ninject.dll
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Poker.exe
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Poker.pdb
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Ninject.xml
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\obj\Debug\Poker.Tests.dll
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\obj\Debug\Poker.Tests.pdb
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Castle.Core.dll
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Moq.dll
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Castle.Core.xml
+E:\My Documents\FreeLance\Poker\Poker\Poker.Tests\bin\Debug\Moq.xml
+C:\Poker\Poker\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Poker\Poker\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Poker\Poker\Poker.Tests\bin\Debug\Castle.Core.dll
+C:\Poker\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Poker\Poker\Poker.Tests\bin\Debug\Moq.dll
+C:\Poker\Poker\Poker.Tests\bin\Debug\Poker.exe
+C:\Poker\Poker\Poker.Tests\bin\Debug\Poker.pdb
+C:\Poker\Poker\Poker.Tests\bin\Debug\Castle.Core.xml
+C:\Poker\Poker\Poker.Tests\bin\Debug\Moq.xml
+C:\Poker\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Poker\Poker\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Poker\Poker\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Poker\Poker\Poker.Tests\obj\Debug\Poker.Tests.pdb

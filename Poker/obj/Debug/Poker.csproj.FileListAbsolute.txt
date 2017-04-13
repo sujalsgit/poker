@@ -1,0 +1,13 @@
+E:\My Documents\FreeLance\Poker\Poker\Poker\bin\Debug\Poker.exe.config
+E:\My Documents\FreeLance\Poker\Poker\Poker\bin\Debug\Poker.exe
+E:\My Documents\FreeLance\Poker\Poker\Poker\bin\Debug\Poker.pdb
+E:\My Documents\FreeLance\Poker\Poker\Poker\obj\Debug\Poker.exe
+E:\My Documents\FreeLance\Poker\Poker\Poker\obj\Debug\Poker.pdb
+E:\My Documents\FreeLance\Poker\Poker\Poker\bin\Debug\Ninject.dll
+E:\My Documents\FreeLance\Poker\Poker\Poker\bin\Debug\Ninject.xml
+C:\Poker\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Poker\Poker\Poker\bin\Debug\Poker.exe
+C:\Poker\Poker\Poker\bin\Debug\Poker.pdb
+C:\Poker\Poker\Poker\obj\Debug\Poker.exe
+C:\Poker\Poker\Poker\obj\Debug\Poker.pdb
+C:\Poker\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
